@@ -21,10 +21,5 @@ git clone git@github.com:huogerac/crud-js-materialize-api-mock.git
 
 cd  crud-js-materialize-api-mock
 npm install
-
-npm run api:mock
-```
-correção do último Comando:
-```
 npm run api:mock
 ```
